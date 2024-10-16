@@ -1,0 +1,4 @@
+#+TITLE: Sitemap for project static
+
+- [[file:robots.txt][robots]]
+- [[file:style.css][style]]
