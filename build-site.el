@@ -138,9 +138,6 @@
          :publishing-directory ,m--publish-dir
          :publishing-function org-publish-attachment
 
-         :html-doctype "html5"
-         :html-html5-fancy t
-
          :html-head-include-scripts nil
          :html-head-include-default-style nil
 
@@ -157,10 +154,6 @@
          :html-link-home ""
          :html-link-up ""
          :html-home/up-format "<div id='org-div-home-and-up'><a href='%s'>Home</a></div>"
-
-
-         :html-doctype "html5"
-         :html-html5-fancy t
 
          :html-head-include-scripts nil
          :html-head-include-default-style nil
